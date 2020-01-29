@@ -1,0 +1,11 @@
+**/aura/**/*.cmp
+**/aura/**/*.cmp-meta.xml
+**/aura/**/*.css
+**/lwc/**/*.css
+**/lwc/**/*.html
+**/lwc/**/*.json
+**/lwc/**/*.svg
+**/lwc/**/*.xml
+**/staticresources/*.js
+**/staticresources/**/*.js
+.sfdx
