@@ -35,7 +35,7 @@ Einstein Platform Services Basic を基礎から学習していきましょう�
 
 - [GitHub Page](https://takahitomiyamoto.github.io/einstein-platform-services-basic/)
 
-  # Einstein Platform Service App
+# Einstein Platform Service App
 
 ![my app](./asset/screenshot_app.png)
 
