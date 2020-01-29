@@ -7,6 +7,7 @@ Einstein Platform Services Basic を基礎から学習していきましょう�
 - [事前準備](https://github.com/takahitomiyamoto/einstein-platform-services-basic/wiki/Prerequisite)
 - [Einstein Language](https://github.com/takahitomiyamoto/einstein-platform-services-basic/wiki/Einstein-Language)
 - [Einstein Vision](https://github.com/takahitomiyamoto/einstein-platform-services-basic/wiki/Einstein-Vision)
+- [Next Step](https://github.com/takahitomiyamoto/einstein-platform-services-basic/wiki/Next-Step)
 
 # Appendix
 
