@@ -39,7 +39,7 @@ Einstein Platform Services Basic を基礎から学習していきましょう�
 
 # Einstein Platform Service App
 
-![my app](./asset/screenshot_app.png)
+![my app](./asset/app_image.png)
 
 ## Acknowledgement
 
